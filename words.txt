@@ -1,0 +1,359 @@
+cricket - The word is a sport
+boxing - The word is a sport
+soccer - The word is a sport
+tennis - The word is a sport
+gymnastics - The word is a sport
+volleyball - The word is a sport
+vadminton - The word is a sport
+swimming - The word is a sport
+cycling - The word is a sport
+fencing - The word is a sport
+basketball - The word is a sport
+archery - The word is a sport
+wrestling - The word is a sport
+handball - The word is a sport
+baseball - The word is a sport
+mumbai - The word is a city
+sydney - The word is a city
+london - The word is a city
+berlin - The word is a city
+tokyo - The word is a city
+paris - The word is a city
+dubai - The word is a city
+cairo - The word is a city
+seoul - The word is a city
+moscow - The word is a city
+vienna - The word is a city
+toronto - The word is a city
+athens - The word is a city
+istanbul - The word is a city
+barcelona - The word is a city
+banana - The word is a fruit
+apple - The word is a fruit
+mango - The word is a fruit
+grape - The word is a fruit
+muskmelon - The word is a fruit
+cherry - The word is a fruit
+papaya - The word is a fruit
+lemon - The word is a fruit
+lychee - The word is a fruit
+orange - The word is a fruit
+coconut - The word is a fruit
+pineapple - The word is a fruit
+kiwi - The word is a fruit
+watermelon - The word is a fruit
+blueberry - The word is a fruit
+tulip - The word is a flower
+rose - The word is a flower
+daisy - The word is a flower
+lily - The word is a flower
+orchid - The word is a flower
+sunflower - The word is a flower
+jasmine - The word is a flower
+iris - The word is a flower
+peony - The word is a flower
+daffodil - The word is a flower
+marigold - The word is a flower
+chrysanthemum - The word is a flower
+lavender - The word is a flower
+poppy - The word is a flower
+hydrangea - The word is a flower
+tiger - The word is an animal
+elephant - The word is an animal
+giraffe - The word is an animal
+lion - The word is an animal
+zebra - The word is an animal
+monkey - The word is an animal
+kangaroo - The word is an animal
+panda - The word is an animal
+reindeer - The word is an animal
+dolphin - The word is an animal
+penguin - The word is an animal
+rhino - The word is an animal
+hippopotamus - The word is an animal
+cheetah - The word is an animal
+gorilla - The word is an animal
+maths - The word is a subject
+science - The word is a subject
+history - The word is a subject
+literature - The word is a subject
+geography - The word is a subject
+physics - The word is a subject
+chemistry - The word is a subject
+biology - The word is a subject
+psychology - The word is a subject
+sociology - The word is a subject
+economics - The word is a subject
+philosophy - The word is a subject
+computer - The word is a subject
+astronomy - The word is a subject
+linguistics - The word is a subject
+chair - The word is an object/thing
+table - The word is an object/thing
+computer - The word is an object/thing
+bicycle - The word is an object/thing
+camera - The word is an object/thing
+telescope - The word is an object/thing
+microphone - The word is an object/thing
+backpack - The word is an object/thing
+umbrella - The word is an object/thing
+sunglasses - The word is an object/thing
+guitar - The word is an object/thing
+refrigerator - The word is an object/thing
+keyboard - The word is an object/thing
+smartphone - The word is an object/thing
+headphones - The word is an object/thing
+google - The word is a company
+microsoft - The word is a company
+apple - The word is a company
+amazon - The word is a company
+facebook - The word is a company
+deloitte - The word is a company
+nutanix - The word is a company
+intel - The word is a company
+oracle - The word is a company
+cisco - The word is a company
+nvidia - The word is a company
+cadence - The word is a company
+whirpool - The word is a company
+adobe - The word is a company
+lenovo - The word is a company
+teak - The word is a tree/plant name
+jamun - The word is a tree/plant name
+sandalwood - The word is a tree/plant name
+mahogany - The word is a tree/plant name
+sheesham - The word is a tree/plant name
+bamboo - The word is a tree/plant name
+tulip - The word is a tree/plant name
+kadamba - The word is a tree/plant name
+sunflower - The word is a tree/plant name
+peepal - The word is a tree/plant name
+ashoka - The word is a tree/plant name
+gulmohar - The word is a tree/plant name
+potato - The word is a vegetable
+tomato - The word is a vegetable
+onion - The word is a vegetable
+carrot - The word is a vegetable
+capsicum - The word is a vegetable
+brinjal - The word is a vegetable
+spinach - The word is a vegetable
+cauliflower - The word is a vegetable
+cabbage - The word is a vegetable
+ladyfinger - The word is a vegetable
+chilli - The word is a vegetable
+beans - The word is a vegetable
+peas - The word is a vegetable
+beetroot - The word is a vegetable
+pumpkin - The word is a vegetable
+coriander - The word is a vegetable
+mint - The word is a vegetable
+einstein - The word is a surname of a famous scientist
+newton - The word is a surname of a famous scientist
+tesla - The word is a surname of a famous scientist
+curie - The word is a surname of a famous scientist
+darwin - The word is a surname of a famous scientist
+galileo - The word is a surname of a famous scientist
+pongal - The word is a festival
+halloween - The word is a festival
+new year - The word is a festival
+sankranti - The word is a festival
+navratri - The word is a festival
+bhaidooj - The word is a festival
+durga puja - The word is a festival
+ganesh chaturthi - The word is a festival
+onam - The word is a festival
+raksha bandhan - The word is a festival
+baisakhi - The word is a festival
+india - The word is a country
+hawking - The word is a surname of a famous scientist
+kepler - The word is a surname of a famous scientist
+pasteur - The word is a surname of a famous scientist
+edison - The word is a surname of a famous scientist
+raman - The word is a surname of a famous scientist
+mendel - The word is a surname of a famous scientist
+bohr - The word is a surname of a famous scientist
+faraday - The word is a surname of a famous scientist
+copernicus - The word is a surname of a famous scientist
+french - The word is a language
+spanish - The word is a language
+marathi - The word is a language
+arabic - The word is a language
+russian - The word is a language
+german - The word is a language
+japanese - The word is a language
+portuguese - The word is a language
+hindi - The word is a language
+bengali - The word is a language
+italian - The word is a language
+korean - The word is a language
+tamil - The word is a language
+telugu - The word is a language
+punjabi - The word is a language
+diwali - The word is a festival
+christmas - The word is a festival
+eid - The word is a festival
+holi - The word is a festival
+united states - The word is a country
+china - The word is a country
+russia - The word is a country
+brazil - The word is a country
+canada - The word is a country
+australia - The word is a country
+mississippi - The word is a river/lake/sea/ocean name
+yangtze - The word is a river/lake/sea/ocean name
+pacific - The word is a river/lake/sea/ocean name
+atlantic - The word is a river/lake/sea/ocean name
+indian - The word is a river/lake/sea/ocean name
+arctic - The word is a river/lake/sea/ocean name
+antarctic - The word is a river/lake/sea/ocean name
+caspian - The word is a river/lake/sea/ocean name
+black - The word is a river/lake/sea/ocean name
+red - The word is a river/lake/sea/ocean name
+dead - The word is a river/lake/sea/ocean name
+mediterranean - The word is a river/lake/sea/ocean name
+banyan - The word is a tree/plant name
+neem - The word is a tree/plant name
+germany - The word is a country
+japan - The word is a country
+france - The word is a country
+united kingdom - The word is a country
+italy - The word is a country
+south africa - The word is a country
+mexico - The word is a country
+argentina - The word is a country
+perman - The word is a cartoon character
+luckyman - The word is a cartoon character
+nobita - The word is a cartoon character
+himawari - The word is a cartoon character
+hattori - The word is a cartoon character
+ninja - The word is a cartoon character
+hagimaru - The word is a cartoon character
+ghasitaram - The word is a cartoon character
+bheem - The word is a cartoon character
+benten - The word is a cartoon character
+mickymouse - The word is a cartoon character
+shaktimaan - The word is a superhero
+superman - The word is a superhero
+batman - The word is a superhero
+spiderman - The word is a superhero
+ironman - The word is a superhero
+hulk - The word is a superhero
+thor - The word is a superhero
+goa - The word is an Indian state
+bihar - The word is an Indian state
+punjab - The word is an Indian state
+kerala - The word is an Indian state
+assam - The word is an Indian state
+gujarat - The word is an Indian state
+haryana - The word is an Indian state
+rajasthan - The word is an Indian state
+karnataka - The word is an Indian state
+odisha - The word is an Indian state
+tamilnadu - The word is an Indian state
+maharashtra - The word is an Indian state
+telangana - The word is an Indian state
+uttarakhand - The word is an Indian state
+himachal - The word is an Indian state
+biryani - The word is an Indian food item
+samosa - The word is an Indian food item
+naan - The word is an Indian food item
+paneer - The word is an Indian food item
+dosa - The word is an Indian food item
+lassi - The word is an Indian food item
+vada - The word is an Indian food item
+tandoori - The word is an Indian food item
+rasgulla - The word is an Indian food item
+chaat - The word is an Indian food item
+jalebi - The word is an Indian food item
+chicken - The word is an Indian food item
+pakoda - The word is an Indian food item
+gulab jamun - The word is an Indian food item
+bhelpuri - The word is an Indian food item
+ganga - The word is a river/lake/sea/ocean name
+nile - The word is a river/lake/sea/ocean name
+amazon - The word is a river/lake/sea/ocean name
+deodar - The word is a tree/plant name
+navratri - The word is a festival
+bhaidooj - The word is a festival
+durga puja - The word is a festival
+ganesh chaturthi - The word is a festival
+onam - The word is a festival
+raksha bandhan - The word is a festival
+baisakhi - The word is a festival
+india - The word is a country
+hawking - The word is a surname of a famous scientist
+kepler - The word is a surname of a famous scientist
+pasteur - The word is a surname of a famous scientist
+edison - The word is a surname of a famous scientist
+raman - The word is a surname of a famous scientist
+mendel - The word is a surname of a famous scientist
+bohr - The word is a surname of a famous scientist
+faraday - The word is a surname of a famous scientist
+copernicus - The word is a surname of a famous scientist
+french - The word is a language
+spanish - The word is a language
+marathi - The word is a language
+arabic - The word is a language
+russian - The word is a language
+german - The word is a language
+japanese - The word is a language
+portuguese - The word is a language
+hindi - The word is a language
+bengali - The word is a language
+italian - The word is a language
+korean - The word is a language
+tamil - The word is a language
+telugu - The word is a language
+punjabi - The word is a language
+diwali - The word is a festival
+christmas - The word is a festival
+eid - The word is a festival
+holi - The word is a festival
+united states - The word is a country
+china - The word is a country
+russia - The word is a country
+brazil - The word is a country
+canada - The word is a country
+australia - The word is a country
+doraemon - The word is a cartoon character
+shinchan - The word is a cartoon character
+perman - The word is a cartoon character
+luckyman - The word is a cartoon character
+nobita - The word is a cartoon character
+himawari - The word is a cartoon character
+hattori - The word is a cartoon character
+ninja - The word is a cartoon character
+hagimaru - The word is a cartoon character
+ghasitaram - The word is a cartoon character
+bheem - The word is a cartoon character
+benten - The word is a cartoon character
+mickymouse - The word is a cartoon character
+shaktimaan - The word is a superhero
+superman - The word is a superhero
+batman - The word is a superhero
+spiderman - The word is a superhero
+ironman - The word is a superhero
+hulk - The word is a superhero
+thor - The word is a superhero
+goa - The word is an Indian state
+bihar - The word is an Indian state
+punjab - The word is an Indian state
+kerala - The word is an Indian state
+assam - The word is an Indian state
+gujarat - The word is an Indian state
+haryana - The word is an Indian state
+rajasthan - The word is an Indian state
+karnataka - The word is an Indian state
+odisha - The word is an Indian state
+tamilnadu - The word is an Indian state
+maharashtra - The word is an Indian state
+telangana - The word is an Indian state
+uttarakhand - The word is an Indian state
+himachal - The word is an Indian state
+manipur - The word is an Indian state
+mizoram - The word is an Indian state
+nagaland - The word is an Indian state
+tripura - The word is an Indian state
+sikkim - The word is an Indian state
+andhra - The word is an Indian state
+bengal - The word is an Indian state

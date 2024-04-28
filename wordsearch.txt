@@ -1,0 +1,48 @@
+------------------How to Play Word Search ? ----------------------------:
+
+Word Search is a classic word puzzle game where you try to find hidden words in a grid of letters.
+The words may be placed horizontally, vertically, or diagonally. Here's how to play:
+
+1. Start by looking at the grid of letters.
+2. Try to find the hidden words in the grid.
+3. Words can be forwards or backwards, and can overlap.
+4. When you find a word, mark it by highlighting or circling the letters.
+5. Continue until you've found all the words in the list.
+
+Example:
+Grid:
+P E N C I L
+A B R O A D
+R M I T E R
+K O S A K U
+S E V E N T
+
+Words to Find:
+- PENCIL
+- BROAD
+- MITER
+- KOSAKU
+- SEVENT
+
+-------------------------------Advantages of Word Search Game------------------------------:
+
+1. Improves Vocabulary: Word Search games expose players to a variety of words, helping to expand
+their vocabulary.
+2. Enhances Focus: Searching for hidden words in the grid requires concentration and focus, which
+can improve attention span.
+3. Relieves Stress: Word Search puzzles can be a relaxing activity, providing a mental break from
+stressors.
+4. Suitable for All Ages: Word Search puzzles are suitable for people of all ages,
+making them a great family activity.
+5. Portable: Word Search puzzles can be printed or played digitally, making them easy
+to take with you on the go.
+
+-------------------------History and Origin of Word Search-----------------------:
+
+The exact origins of Word Search puzzles are unclear, but they are believed
+to have been invented by Norman E.
+Gibat, who first published them in the Selenby Digest in 1968.
+Word Searches gained popularity in the late 20th century and
+have since become a staple in puzzle books, newspapers, and online platforms.
+Today, Word Search puzzles are enjoyed by millions of
+people worldwide as a fun and educational pastime.

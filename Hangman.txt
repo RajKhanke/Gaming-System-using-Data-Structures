@@ -1,0 +1,127 @@
+******************** RULES AND REGULATIONS OF HANGMAN GAME ***********************
+
+-------------------Hangman is a word-guessing game where----------:
+
+1) One player selects a word, and the other player tries to guess it by suggesting letters.
+2)The word to be guessed is represented by a series of dashes, with each dash representing
+a letter in the word.
+3)The guessing player suggests a letter.
+
+-----------If the suggested letter appears in the word-------------:
+
+1)All occurrences of that letter are revealed in the corresponding positions.
+2)The game proceeds to the next guess.
+3)If the suggested letter does not appear in the word:
+4)A part of a gallows and a hangman is drawn as a visual representation of incorrect guesses.
+5)The number of incorrect guesses allowed varies, typically around 6-7 incorrect guesses 
+before the game ends.
+
+------------The game continues until--------------------------------:
+
+1)The guessing player successfully guesses the entire word by correctly guessing all its letters.
+2)The guessing player exceeds the maximum number of allowed incorrect guesses
+
+Example:
+Word to be guessed: HANGMAN
+Current state: _ _ _ _ _ _ _
+
+Guess: A
+Result: _ A _ _ _ A _
+Hangman Status:
++---+
+|   |
+|
+|
+|
+|__________
+Explanation: The letter 'A' appears twice in the word 'HANGMAN', so both occurrences are revealed.
+
+Guess: N
+Result: _ A N _ _ A N
+Hangman Status:
++---+
+|   |
+|
+|
+|
+|__________
+Explanation: The letter 'N' appears twice in the word 'HANGMAN', so both occurrences are revealed.
+
+Guess: H
+Result: H A N _ _ A N
+Hangman Status:
++---+
+|   |
+|   O
+|
+|
+|__________
+Explanation: The letter 'H' appears once in the word 'HANGMAN', so its occurrence is revealed.
+
+Guess: G
+Result: H A N G _ A N
+Hangman Status:
++---+
+|   |
+|   O
+|
+|
+|__________
+Explanation: The letter 'G' appears once in the word 'HANGMAN', so its occurrence is revealed.
+
+Guess: M
+Result: H A N G M A N
+Hangman Status:
++---+
+|   |
+|   O
+|  / \
+|
+|
+|__________
+Explanation: The letter 'M' appears once in the word 'HANGMAN', so its occurrence is revealed.
+
+The word 'HANGMAN' is successfully guessed before reaching the maximum number of incorrect guesses.
+
+
+******************** HISTORY AND ORIGIN OF HANGMAN GAME ***********************
+
+The history and origin of the Hangman game are shrouded in mystery,
+with no precise documentation of its inception. 
+However, it is believed to have emerged from various word-guessing
+pastimes that have been around for centuries.
+One theory suggests that Hangman traces back
+to Victorian England, where it was known as "Birds, Beasts, or Fish."
+Another hypothesis proposes medieval origins, where similar games were played using gallows
+imagery.
+Over time, Hangman evolved into its contemporary form,
+becoming a popular parlor game in the early 20th century.
+Its simplicity and entertainment value contributed to its widespread adoption,
+with variations appearing in different cultures worldwide.
+Today, Hangman remains a beloved word game enjoyed by individuals of all ages.
+Its appeal as both a recreational activity
+and an educational tool has solidified its place in popular culture,
+making it a timeless classic among word enthusiasts.
+Effect of Hangman Game on Children's Learning:
+The Hangman game offers several benefits for children's learning and development.
+Firstly, it enhances vocabulary skills by exposing children to a variety of words and
+encouraging them to decipher their meanings through context and letter patterns.
+This process aids in expanding their word bank and improving language comprehension.
+Secondly, Hangman promotes spelling proficiency as players must correctly guess letters
+to form words.
+Through repeated exposure to spelling patterns and word structures, children can reinforce
+their spelling skills and become more confident in their ability to spell accurately.
+Moreover, Hangman fosters critical thinking and problem-solving abilities.
+Players must strategically select letters based on their likelihood of appearing in the word,
+applying deduction and reasoning to narrow down possibilities.
+This mental exercise stimulates cognitive development and strengthens analytical skills.
+Furthermore, Hangman encourages social interaction and collaboration, especially in group settings.
+Players can work together to solve the puzzle,
+offering suggestions and discussing potential letter choices.
+This collaborative effort promotes
+teamwork and communication skills while also fostering a sense of camaraderie among participants.
+Overall, the Hangman game serves as a fun
+and engaging educational tool that supports various aspects of children's learning,
+including vocabulary acquisition, spelling proficiency, critical thinking, and social development.
+Its interactive nature makes it an effective supplement to traditional teaching methods,
+offering an enjoyable way for children to enhance their language skills and cognitive abilities.

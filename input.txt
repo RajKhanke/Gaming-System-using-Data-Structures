@@ -1,0 +1,54 @@
+               ********************************** RULES OF SUDOKU ************************************
+
+1) Sudoku is played on a 9x9 grid, divided into nine 3x3 subgrids.
+2) The objective is to fill the grid with digits from 1 to 9, ensuring that each row, each column, and each of the nine 3x3 subgrids contains all of the digits from 1 to 9 without repetition.
+3) Initially, a partially filled grid is provided, with some cells containing numbers from 1 to 9, and the rest of the cells are empty.
+4) To solve the puzzle, players must use logic and deduction to determine the correct number to fill in each empty cell, based on the numbers already present in the grid and following the rules of Sudoku.
+5) Once all empty cells are filled, and the numbers in each row, column, and subgrid meet the rules, the puzzle is considered solved.
+
+
+         ********************************** ORIGIN AND HISTORY OF SUDOKU ************************************
+
+Sudoku, a popular puzzle game enjoyed by millions worldwide, has a rich history and an intriguing origin. While it may seem like a modern invention, its roots can be traced back to ancient times.
+
+The history of Sudoku dates back to the 18th century, where a similar puzzle known as "Magic Squares" was prevalent in Europe. Magic Squares involved arranging numbers in a grid so that the sum of each row, column, and diagonal was the same. While Magic Squares laid the groundwork for Sudoku, the modern version as we know it today began to take shape much later.
+
+The precursor to Sudoku emerged in the late 19th century in Switzerland, where a mathematician named Leonhard Euler introduced "Latin Squares" in one of his papers. Latin Squares were grids filled with symbols or numbers, ensuring that no symbol or number appeared more than once in each row and column. This concept of unique placement laid the foundation for Sudoku's gameplay.
+
+However, the true origin of Sudoku as we recognize it today can be attributed to Howard Garns, an American architect and freelance puzzle constructor. In 1979, Garns created a puzzle known as "Number Place" for Dell Magazines, a publication in the United States. Number Place featured a 9x9 grid divided into nine 3x3 subgrids, with some numbers already filled in. The objective was to fill the remaining empty cells with numbers from 1 to 9, ensuring that no number repeated within a row, column, or subgrid.
+
+Garns' puzzle gained popularity among puzzle enthusiasts in the United States but remained relatively unknown on the global stage. It wasn't until 1984 when the puzzle was introduced to Japan by Nikoli, a Japanese puzzle company, that Sudoku gained widespread recognition.
+
+Under the name "Sudoku," a contraction of the Japanese words "su" (meaning number) and "doku" (meaning single), the puzzle quickly captivated the Japanese audience. Nikoli simplified the rules and adjusted the grid size to 9x9, making it more accessible and appealing to a broader audience. With its addictive gameplay and logical challenge, Sudoku skyrocketed in popularity, becoming a cultural phenomenon in Japan and eventually spreading worldwide.
+
+The turning point for Sudoku's global recognition came in the early 21st century when newspapers and puzzle magazines worldwide began featuring Sudoku puzzles regularly. Its presence in newspapers, books, mobile apps, and online platforms propelled Sudoku to unprecedented heights of popularity, making it one of the most beloved and recognizable puzzle games of all time.
+
+Today, Sudoku continues to captivate puzzle enthusiasts of all ages, providing a stimulating mental exercise and a source of entertainment across the globe. Its enduring appeal and timeless gameplay ensure that Sudoku remains a beloved classic for generations to come.
+
+This detailed text provides insight into the fascinating history and evolution of Sudoku, from its humble origins to its status as a worldwide phenomenon.
+
+
+         ********************************** TACTICS AND TRICKS OF SUDOKU ************************************
+
+1) Scan Rows, Columns, and Boxes: Look for numbers that are already present in rows, columns, and 3x3 boxes. Scan each row, column, and box to identify numbers that are missing or can be deduced.
+
+2) Elimination Technique: Identify numbers that cannot go in a particular cell based on the numbers already present in the same row, column, or box. Eliminate these numbers to narrow down the possibilities for each cell.
+
+3) Single Possibility Rule: If a cell has only one possible number that can go in it based on the numbers already present in the same row, column, or box, then that number must be the solution for that cell.
+
+4) Unique Possibilities: Identify cells where a number can only go in one position within a row, column, or box. If a number can only fit in one cell within a particular unit, then it must go there.
+
+5) Candidate Lists: Keep track of possible numbers for each cell by creating candidate lists. As you fill in more cells, update the candidate lists to reflect the remaining possibilities for each cell.
+
+6) Naked Pairs and Triples: Look for pairs or triples of numbers that appear only in a particular row, column, or box. If two or three cells contain the same two or three numbers, then those numbers cannot appear in any other cells within the same unit.
+
+7) Hidden Singles: Identify cells where a number can only go in one position within a row, column, or box, even though there are multiple candidate numbers for that cell. This technique requires careful examination of intersecting units.
+
+8) X-Wing and Swordfish Patterns: These advanced techniques involve identifying patterns of candidate numbers across multiple rows and columns. X-Wing and Swordfish patterns can help eliminate candidate numbers and narrow down the possibilities for other cells.
+
+9) Coloring Technique: Assign colors to candidate numbers and use logical deductions to identify contradictions. Coloring can help identify chains of numbers and eliminate candidate numbers based on contradictions.
+
+10) Trial and Error: As a last resort, you can use trial and error by making educated guesses and exploring the consequences. However, be cautious and make sure to backtrack if you encounter contradictions.
+
+
+
